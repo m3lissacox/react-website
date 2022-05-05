@@ -1,3 +1,7 @@
+<h1 align="center">
+  My personal website + portfolio v2
+</h1>
+<p>This is my new website, intended to help me practice developing WCAG 2.1-compliant React apps with Gatsby.</p>
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
